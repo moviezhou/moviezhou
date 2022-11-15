@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moviezhou
-- 👀 I’m interested in web development Web3
+- 👀 Developer, trader, builder
 
 <!---
 moviezhou/moviezhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
